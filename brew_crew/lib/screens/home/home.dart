@@ -1,6 +1,5 @@
 import 'package:brew_crew/services/auth.dart';
 import 'package:flutter/material.dart';
-import 'package:brew_crew/services/auth.dart';
 
 class Home extends StatelessWidget {
 
